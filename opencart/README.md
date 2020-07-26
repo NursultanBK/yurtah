@@ -1,2 +1,2 @@
-# 312shop
-312 shopping website
+# Yurtah-shop
+Yurtah shopping website
